@@ -2,7 +2,7 @@
 title: Numerical Solution - Overview
 layout: home
 nav_order: 1
-parent: Conceptual Model
+parent: Numerical Solution
 has_children: false
 ---
 
