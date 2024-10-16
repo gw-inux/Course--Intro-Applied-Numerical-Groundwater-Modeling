@@ -2,7 +2,7 @@
 title: Conceptual Model - Overview
 layout: home
 nav_order: 1
-parent: Introduction
+parent: Conceptual Model
 has_children: false
 ---
 
