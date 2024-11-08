@@ -1,8 +1,9 @@
 ---
-title: Introduction
+title: Numerical Solution - Overview
 layout: home
-nav_order: 2
-has_children: true
+nav_order: 1
+parent: Numerical Solution
+has_children: false
 ---
 
 <script
@@ -10,5 +11,6 @@ has_children: true
   type="text/javascript">
 </script>
 
-# Introduction
+# Numerical Solution - **Overview**
 
+...

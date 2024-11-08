@@ -1,8 +1,9 @@
 ---
-title: Introduction
+title: Introduction - Motivation
 layout: home
-nav_order: 2
-has_children: true
+nav_order: 4
+parent: Introduction
+has_children: false
 ---
 
 <script
@@ -10,5 +11,6 @@ has_children: true
   type="text/javascript">
 </script>
 
-# Introduction
+# Introduction - **Motivation**
 
+...
