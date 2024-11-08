@@ -1,7 +1,7 @@
 ---
 title: Introduction - Motivation
 layout: home
-nav_order: 1
+nav_order: 4
 parent: Introduction
 has_children: false
 ---

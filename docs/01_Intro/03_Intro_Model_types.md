@@ -1,7 +1,7 @@
 ---
 title: Introduction - Models and Model Types
 layout: home
-nav_order: 3
+nav_order: 5
 parent: Introduction
 has_children: false
 ---

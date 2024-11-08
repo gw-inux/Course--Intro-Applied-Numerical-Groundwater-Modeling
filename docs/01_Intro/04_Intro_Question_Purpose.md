@@ -1,7 +1,7 @@
 ---
 title: Introduction - Question and Purpose of Groundwater Models
 layout: home
-nav_order: 4
+nav_order: 6
 parent: Introduction
 has_children: false
 ---

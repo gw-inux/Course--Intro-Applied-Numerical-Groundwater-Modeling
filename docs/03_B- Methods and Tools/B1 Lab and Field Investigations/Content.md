@@ -1,8 +1,8 @@
 ---
-title: Conceptual Model - Overview2
+title: Numerical Solution - Overview
 layout: home
-nav_order: 2
-parent: Conceptual Model
+nav_order: 1
+parent: Numerical Solution
 has_children: false
 ---
 
@@ -11,14 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Conceptual Model - **Overview**
+# Numerical Solution - **Overview**
 
 ...
-
-
-Checklist
-[ ] Point 1
-
-[ ] Point 2
-
-[ ] Point
