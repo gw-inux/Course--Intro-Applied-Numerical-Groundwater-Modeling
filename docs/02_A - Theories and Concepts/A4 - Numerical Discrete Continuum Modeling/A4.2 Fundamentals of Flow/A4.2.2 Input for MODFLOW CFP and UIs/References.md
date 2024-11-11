@@ -1,9 +1,9 @@
 ---
-title: Welcome and Overview
+title: References
 layout: home
-nav_order: 2
-parent: Introduction
-has_children: false
+nav_order: 3
+parent: Input for MODFLOW CFP and UI
+has_children: true
 ---
 
 <script
@@ -11,7 +11,10 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
+# References
 
+
+> ## 
+>
 
 ...

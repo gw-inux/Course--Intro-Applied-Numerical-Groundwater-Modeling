@@ -1,8 +1,8 @@
 ---
-title: Welcome and Overview
+title: References
 layout: home
-nav_order: 2
-parent: Introduction
+nav_order: 3
+parent: Numerical Model Approaches for Karst
 has_children: false
 ---
 
@@ -11,7 +11,8 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
+# References and Resources (Links)
 
 
-...
+> ## 
+>

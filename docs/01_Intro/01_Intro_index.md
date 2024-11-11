@@ -1,9 +1,8 @@
 ---
-title: Welcome and Overview
+title: Introduction
 layout: home
-nav_order: 2
-parent: Introduction
-has_children: false
+nav_order: 1
+has_children: true
 ---
 
 <script
@@ -11,7 +10,5 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
+# Introduction
 
-
-...

@@ -1,9 +1,8 @@
 ---
-title: Welcome and Overview
+title: Methods and Tools
 layout: home
-nav_order: 2
-parent: Introduction
-has_children: false
+nav_order: 4
+has_children: true
 ---
 
 <script
@@ -11,7 +10,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
-
+# B - Methods and Tools
 
 ...

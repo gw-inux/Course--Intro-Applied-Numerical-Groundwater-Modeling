@@ -1,8 +1,8 @@
 ---
-title: Welcome and Overview
+title: Checklist
 layout: home
-nav_order: 2
-parent: Introduction
+nav_order: 1
+parent: 1d Flow Example
 has_children: false
 ---
 
@@ -11,7 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
-
+# Checklist
 
 ...

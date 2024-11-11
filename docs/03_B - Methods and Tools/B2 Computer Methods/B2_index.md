@@ -1,9 +1,9 @@
 ---
-title: Welcome and Overview
+title: Computer Methods
 layout: home
 nav_order: 2
-parent: Introduction
-has_children: false
+parent: Methods and Tools
+has_children: true
 ---
 
 <script
@@ -11,7 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
-
+# B2- Computer Methods
 
 ...

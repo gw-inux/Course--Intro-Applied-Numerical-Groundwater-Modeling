@@ -1,8 +1,8 @@
 ---
-title: Welcome and Overview
+title: References
 layout: home
-nav_order: 2
-parent: Introduction
+nav_order: 3
+parent: Solute Transport in discrete structures - Processes
 has_children: false
 ---
 
@@ -11,7 +11,8 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
+# Resources and References (Links)
 
 
-...
+> ## 
+>

@@ -1,7 +1,7 @@
 ---
 title: Participant Survey
 layout: home
-nav_order: 2
+nav_order: 3
 parent: Introduction
 has_children: false
 ---
