@@ -1,9 +1,9 @@
 ---
-title: Welcome and Overview
+title: Installation MODELMUSE
 layout: home
-nav_order: 2
-parent: Introduction
-has_children: false
+nav_order: 1
+parent: MODFLOW (Groundwater Flow Modeling)
+has_children: True
 ---
 
 <script
@@ -11,7 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
-
+# Installation MODELMUSE
 
 ...

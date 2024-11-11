@@ -1,8 +1,8 @@
 ---
-title: Welcome and Overview
+title: 2D Synthetic Model
 layout: home
-nav_order: 2
-parent: Introduction
+nav_order: 3
+parent: MODFLOW (Groundwater Flow Modeling)
 has_children: false
 ---
 
@@ -11,7 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
-
+# 2D Synthetic Model Explanation with video
 
 ...

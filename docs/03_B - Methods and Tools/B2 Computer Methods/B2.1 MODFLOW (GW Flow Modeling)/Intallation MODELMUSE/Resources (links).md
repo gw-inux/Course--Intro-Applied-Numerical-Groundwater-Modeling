@@ -1,8 +1,8 @@
 ---
-title: Welcome and Overview
+title: Resources (Links)
 layout: home
 nav_order: 2
-parent: Introduction
+parent: Installation MODELMUSE
 has_children: false
 ---
 
@@ -11,7 +11,6 @@ has_children: false
   type="text/javascript">
 </script>
 
-# Welcome and Overview
-
+# Resources (Links)
 
 ...
