@@ -1,7 +1,7 @@
 ---
 title: Theoretical and Conceptual Knowledge
-layout: home
-nav_order: 1
+layout: default
+nav_order: 3
 has_children: true
 ---
 

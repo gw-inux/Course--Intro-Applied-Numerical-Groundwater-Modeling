@@ -3,6 +3,8 @@ title: Installation MODELMUSE
 layout: home
 nav_order: 1
 parent: MODFLOW (Groundwater Flow Modeling)
+grand_parent: Computer Methods
+has_toc: false
 has_children: True
 ---
 

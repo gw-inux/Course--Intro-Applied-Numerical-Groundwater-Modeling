@@ -3,6 +3,8 @@ title: 1D Flow Example
 layout: home
 nav_order: 2
 parent: MODFLOW (Groundwater Flow Modeling)
+grand_parent: Computer Methods
+has_toc: false
 has_children: True
 ---
 
