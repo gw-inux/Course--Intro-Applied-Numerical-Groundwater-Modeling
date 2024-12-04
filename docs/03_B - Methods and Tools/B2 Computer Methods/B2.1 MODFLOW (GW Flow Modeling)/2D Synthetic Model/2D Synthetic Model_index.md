@@ -3,6 +3,8 @@ title: 2D Synthetic Model
 layout: home
 nav_order: 3
 parent: MODFLOW (Groundwater Flow Modeling)
+grand_parent: Computer Methods
+has_toc: false
 has_children: false
 ---
 

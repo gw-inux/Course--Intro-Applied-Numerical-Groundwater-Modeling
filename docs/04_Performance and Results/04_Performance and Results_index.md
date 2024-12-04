@@ -1,8 +1,9 @@
 ---
 title: Performance and Results
 layout: home
-navorder: 5
+nav_order: 5
 has_children: true
+has_toc: false
 ---
 
 # Performance and Results

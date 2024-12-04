@@ -3,6 +3,8 @@ title: 2D Idealized Example
 layout: home
 nav_order: 4
 parent: MODFLOW (Groundwater Flow Modeling)
+grand_parent: Computer Methods
+has_toc: false
 has_children: True
 ---
 
