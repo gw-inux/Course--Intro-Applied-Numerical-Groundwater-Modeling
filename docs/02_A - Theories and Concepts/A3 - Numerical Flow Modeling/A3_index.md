@@ -1,5 +1,5 @@
 ---
-title: Numerical Solute Transport Modeling
+title: Numerical Flow Modeling
 layout: home
 nav_order: 3
 parent: Theoretical and Conceptual Knowledge
@@ -10,6 +10,6 @@ has_children: true
   type="text/javascript">
 </script>
 
-# A3 - Numerical Solute Transport Modeling
+# A3 - Numerical Flow Modeling
 
 This part requires the knowledge of basic hydrogeology. 
