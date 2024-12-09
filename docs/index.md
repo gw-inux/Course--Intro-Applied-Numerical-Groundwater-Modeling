@@ -1,7 +1,7 @@
 ---
 title: FEMAR - Knowledge transfer
-layout: home
-navorder: 1
+layout: default
+nav_order: 1
 has_children: false
 ---
 
