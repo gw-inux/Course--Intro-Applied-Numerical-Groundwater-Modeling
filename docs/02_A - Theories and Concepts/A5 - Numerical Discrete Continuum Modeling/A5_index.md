@@ -1,5 +1,5 @@
 ---
-title: Numerical Discrte - Continuum Modeling
+title: Numerical Discrete - Continuum Modeling
 layout: home
 nav_order: 5
 parent: Theoretical and Conceptual Knowledge
