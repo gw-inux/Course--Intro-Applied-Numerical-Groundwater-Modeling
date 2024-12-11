@@ -2,7 +2,7 @@
 title: Data-Driven Mapping
 layout: home
 nav_order: 2
-parent: Theoretical and Conceptual Knowledge
+parent: A) Theoretical and Conceptual Knowledge
 has_children: true
 has_toc: false
 ---

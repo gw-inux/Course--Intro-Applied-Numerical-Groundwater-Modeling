@@ -2,7 +2,7 @@
 title: Numerical Solute Transport Modeling
 layout: home
 nav_order: 4
-parent: Theoretical and Conceptual Knowledge
+parent: A) Theoretical and Conceptual Knowledge
 has_children: true
 ---
 <script
