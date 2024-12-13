@@ -2,8 +2,9 @@
 title: References
 layout: home
 nav_order: 3
-parent: Single Conduit Spring Response
+parent: A5.2.1 - Single Conduit Spring Response
 has_children: false
+has_toc: false
 ---
 
 <script

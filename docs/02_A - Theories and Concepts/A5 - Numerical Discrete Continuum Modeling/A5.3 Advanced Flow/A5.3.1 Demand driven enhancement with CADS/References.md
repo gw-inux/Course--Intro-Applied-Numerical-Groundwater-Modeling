@@ -2,8 +2,9 @@
 title: References
 layout: home
 nav_order: 3
-parent: Demand Driven Enhancement with CADS
+parent: A5.3.1 - Demand-Driven Enhancement with CADS
 has_children: false
+has_toc: false
 ---
 
 <script

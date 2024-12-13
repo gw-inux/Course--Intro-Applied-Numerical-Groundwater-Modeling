@@ -2,8 +2,9 @@
 title: References
 layout: home
 nav_order: 3
-parent: Numerical Model Approaches for Karst
+parent: A5.1.2 - Numerical Model Approaches for Karst
 has_children: false
+has_toc: false
 ---
 
 <script
@@ -15,4 +16,3 @@ has_children: false
 
 
 > ## 
->

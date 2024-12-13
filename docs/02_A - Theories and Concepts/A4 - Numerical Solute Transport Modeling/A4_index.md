@@ -1,9 +1,10 @@
 ---
-title: Numerical Solute Transport Modeling
+title: A4 - Numerical Solute Transport Modeling
 layout: home
 nav_order: 4
-parent: A) Theoretical and Conceptual Knowledge
+parent: A - Theoretical and Conceptual Knowledge
 has_children: true
+has_toc: false
 ---
 <script
   src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML"
