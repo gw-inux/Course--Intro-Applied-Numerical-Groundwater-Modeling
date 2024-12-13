@@ -2,9 +2,9 @@
 title: Pre_Test
 layout: home
 nav_order: 2
-parent: Hydrogeological Concepts to Describe the Underground
+parent: A1.1 - Hydrogeological Concepts to Describe the Underground
 has_children: False
-grand_parent: Basic Hydrogeology
+grand_parent: A1 - Basic Hydrogeology
 ---
 
 <script

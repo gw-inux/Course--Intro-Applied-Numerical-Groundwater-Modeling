@@ -1,5 +1,5 @@
 ---
-title: Methods and Tools
+title: B - Methods and Tools
 layout: home
 nav_order: 4
 has_children: true

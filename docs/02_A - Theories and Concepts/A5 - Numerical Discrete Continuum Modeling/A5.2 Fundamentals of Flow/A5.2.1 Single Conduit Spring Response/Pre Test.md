@@ -2,8 +2,9 @@
 title: Pre Test
 layout: home
 nav_order: 1
-parent: Single Conduit Spring Response
+parent: A5.2.1 - Single Conduit Spring Response
 has_children: false
+has_toc: false
 ---
 
 <script
@@ -15,4 +16,3 @@ has_children: false
 
 
 > ## 
->

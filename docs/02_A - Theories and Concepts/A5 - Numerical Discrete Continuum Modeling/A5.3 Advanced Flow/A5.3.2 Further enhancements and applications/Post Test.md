@@ -2,8 +2,9 @@
 title: Post Test
 layout: home
 nav_order: 2
-parent: Further enhancemnets and applications
+parent: A5.3.2 - Further enhancements and applications
 has_children: false
+has_toc: false
 ---
 
 <script
@@ -15,4 +16,3 @@ has_children: false
 
 
 > ## 
->

@@ -2,8 +2,9 @@
 title: Post Test
 layout: home
 nav_order: 2
-parent: Input for MODFLOW CFP and UI
+parent: A5.2.2 - Input for MODFLOW CFP and UI
 has_children: false
+has_toc: false
 ---
 
 <script
@@ -15,4 +16,3 @@ has_children: false
 
 
 > ## 
->

@@ -1,8 +1,8 @@
 ---
-title: Computer Methods
+title: B2 - Computer Methods
 layout: home
 nav_order: 2
-parent: Methods and Tools
+parent: B - Methods and Tools
 has_children: true
 ---
 
@@ -11,6 +11,6 @@ has_children: true
   type="text/javascript">
 </script>
 
-# B2- Computer Methods
+# B2 - Computer Methods
 
 ...

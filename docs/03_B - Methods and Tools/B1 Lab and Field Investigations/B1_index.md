@@ -1,8 +1,8 @@
 ---
-title: Lab and Field Investigations
+title: B1 - Lab and Field Investigations
 layout: home
 nav_order: 1
-parent: Methods and Tools
+parent: B - Methods and Tools
 has_children: false
 ---
 

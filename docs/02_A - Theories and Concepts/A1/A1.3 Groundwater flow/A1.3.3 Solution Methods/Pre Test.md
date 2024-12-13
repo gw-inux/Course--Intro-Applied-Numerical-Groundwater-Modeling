@@ -2,8 +2,9 @@
 title: Pre Test
 layout: home
 nav_order: 1
-parent: Solution Methods
+parent: A1.3.3 - Solution Methods
 has_children: false
+has_toc: false
 ---
 
 <script
